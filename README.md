@@ -3,7 +3,7 @@
 ## 1.- Haz un fork del repositorio original
 Para hacer un fork, inicia sesión en [GitHub](http://github.com/login "Inicia sesión en GitHub") y dirígite al repositorio de tu interés. Una vez allí, presiona el botón "Fork".
 
-![alt text](images/fork.tiff "Fork")
+![alt text](images/fork.png "Fork")
 
 Ahora tendrás una copia del repositorio de tu interés en tu cuenta.
 
@@ -60,7 +60,7 @@ Para compartir tus cambios con alguien más, primero debes subir los cambios de 
     
 Para que la otra persona integre tus cambios en su repositorio, debes solicitárselo mediante una característica de GitHub conocida como **Pull Request**.
 
-![alt text](images/pull.tiff "Pull Request")
+![alt text](images/pull.png "Pull Request")
 
 
 ## 5.- Mantente al día
@@ -87,4 +87,3 @@ Copyleft
     &copy;
 </span>
 2013
-
